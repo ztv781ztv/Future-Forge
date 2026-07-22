@@ -154,7 +154,7 @@ Cost: $3 <a href="https://www.aliexpress.com/item/32722114256.html" target="_bla
 <p style="font-family:Verdana;">
 Regular on/off switch<br>
 Inexpensive and easy to install<br>
-Cost: $5 <a href="https://a.aliexpress.com/_c3wrhjtl" target="_blank">AliExpress</a>
+Cost: $0.67 for two pcs <a href="https://ar.aliexpress.com/item/1005009187497448.html?spm=a2g0o.productlist.main.4.6659VBZPVBZPji&algo_pvid=cde2e5a6-6cc3-4bcb-95f0-911d00f2b081&aem_p4p_detail=2026072209473612241155076612200000032710&algo_exp_id=cde2e5a6-6cc3-4bcb-95f0-911d00f2b081-3&pdp_ext_f=%7B%22order%22%3A%22347%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.50%213.15%21%21%214.50%213.15%21%4021413b0b17847388566187049e1053%2112000048235993795%21sea%21PS%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa7b94305%3Bm03_new_user%3A-29895&curPageLogUid=ml6vri059rQj&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009187497448%7C_p_origin_prod%3A&search_p4p_id=2026072209473612241155076612200000032710_1" target="_blank">AliExpress</a>
 </p>
 
 <img src="Images/OnOffButton.jpg" alt="On/Off Button" width="250">
