@@ -1,11 +1,11 @@
-# 🤖 Autonomous PID Robot Controller (Raspberry Pi)
+#  Autonomous PID Robot Controller (Raspberry Pi)
 
-## 📌 Project Overview
+##  Project Overview
 An autonomous navigation system for a Raspberry Pi robot that uses an **MPU6050 Gyroscope** paired with a **PID Controller** to maintain straight-line stability and execute precise 90-degree turns, while using **HC-SR04 Ultrasonic Sensors** for wall detection.
 
 ---
 
-## ⚙️ Core Modules & Logic
+##  Core Modules & Logic
 
 ### 1. Orientation & PID Control
 * **Gyroscope Angle Integration**: The system reads angular velocity from the MPU6050 along the Z-axis and integrates it over time to maintain continuous orientation tracking.
@@ -22,7 +22,7 @@ An autonomous navigation system for a Raspberry Pi robot that uses an **MPU6050 
 
 ---
 
-## 🛠️ Hardware Pinout Summary
+##  Hardware Pinout Summary
 
 | Component | Function | GPIO / Interface |
 | :--- | :--- | :--- |
