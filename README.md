@@ -1,64 +1,41 @@
-# Future Forge Team – WRO Future Engineers 2026
-
+Future Forge Team – WRO Future Engineers 2026
 ![Banner](Images/banner.jpg)
-
-## Table of Contents
-- [About Us](#about-us)
-- [Power and Sense Management](#power-and-sense-management)
-- [Obstacle Management](#obstacle-management)
-- [Engineering Factor](#engineering-factor)
-- [Hardware](#hardware)
-- [Software](#software)
-- [Experience and Acquired Expertise](#experience-and-acquired-expertise)
-- [Special Thanks](#special-thanks)
-- [Conclusion and Future Vision](#conclusion-and-future-vision)
-
+Table of Contents
+About Us
+Power and Sense Management
+Obstacle Management
+Engineering Factor
+Hardware
+Software
+Experience and Acquired Expertise
+Special Thanks
+Conclusion and Future Vision
 ---
-
-## About Us
-
+About Us
 We are a team of two members:
-
-### Amr Younis
+Amr Younis
 A fifteen-year-old Palestinian.  
-Instagram: [amr.younis04](https://www.instagram.com/amr.younis04)
-
-### Mohammad Younis
+Instagram: amr.younis04
+Mohammad Younis
 A fourteen-year-old Palestinian.  
 Instagram: []()
 
-
 We are pleased to introduce our project, which involves building and programming a robot capable of traversing a specific path. This path consists of a white carpet with two lines in each corner, as well as an orange line and a blue line. The carpet measures three meters long and three meters wide, surrounded by a 10-cm-high black wooden wall, with a 10-cm-high square black wooden wall in the middle of the carpet.
-
 ---
-## Power and Sense Management
-
+Power and Sense Management
 We used a 12.6-volt, 6A rechargeable lithium battery. It’s a medium-weight battery with large capacity, sufficient for all components. We distributed the power correctly so that no single component consumes more than its share.
-
 ---
-
-## Obstacle Management
-
+Obstacle Management
 The robot deals with obstacles using ultrasonic sensors and a camera.
-
 Ultrasonic technology measures the distance between the obstacle and the robot, enabling it to adjust its direction. It works by sending out sound waves and measuring their bounce.
-
 The camera recognizes colors and sends a signal to the Raspberry Pi. For example, when detecting red, the robot reacts according to the instructions we programmed.
-
 ---
-
-## Engineering Factor
-
+Engineering Factor
 We started with a ready-made kit and modified it to suit our task. For example, we added additional layers to contain all the parts and ensured balanced weight distribution, placing the battery in the middle to prevent tilting.
 
-
-
 <hr>
-
 <h1 id="hardware" style="font-family:Verdana; color:blue;">Hardware</h1>
-
 <h2 style="font-family:Verdana; color:blue;">1- The Robot</h2>
-
 <div style="overflow:hidden;">
   <p style="font-family:Verdana; float:left; width:60%;">
     We modified a ready-made kit by adding one acrylic layer and two plastic layers, giving us four in total:
@@ -70,8 +47,7 @@ We started with a ready-made kit and modified it to suit our task. For example, 
     </ul>
     All connected with jumper wires.
   </p>
-
-  <img src="Images/Robot.jpg" alt="Robot" width="250" style="float:right; margin-left:15px;">
+<img src="Images/Robot.jpg" alt="Robot" width="250" style="float:right; margin-left:15px;">
 </div>
 <!-- الصور على اليمين -->
 <h2 style="font-family:Verdana; color:blue;">2- Kit Used</h2>
@@ -80,11 +56,9 @@ MG996 car model servo and DC motor<br>
 Available in Palestine and suitable for our task<br>
 Cost: $95 <a href="https://a.aliexpress.com/_c3kFLPlv" target="_blank">AliExpress</a>
 </p>
-
 <p style="font-family:Verdana;">
 <img src="Images/Kit.jpg" alt="Robot Kit" width="250" style="float:right; margin-left:15px;">
 </p>
-
 <h2 style="font-family:Verdana; color:blue;">3- Microcontroller</h2>
 <p style="font-family:Verdana;">
 Raspberry Pi 4 8GB RAM<br>
@@ -92,14 +66,12 @@ Fast CPU, Python support, and available locally<br>
 Cost: $92 <a href="https://www.aliexpress.com/item/1005001866255360.html" target="_blank">AliExpress</a>
 </p>
 <img src="Images/RaspberryPi.jpg" alt="Raspberry Pi" width="250">
-
 <h2 style="font-family:Verdana; color:blue;">4- Battery</h2>
 <p style="font-family:Verdana;">
 12.6V, 6A lithium battery<br>
 High voltage & capacity, adjustable output
 </p>
 <img src="Images/Battery.jpg" alt="Battery" width="250">
-
 <h2 style="font-family:Verdana; color:blue;">5- DC Power Converter</h2>
 <p style="font-family:Verdana;">
 XL4015 (32V → 1.25V adjustable)<br>
@@ -107,7 +79,6 @@ Easy to install<br>
 Cost: $1 <a href="https://www.aliexpress.com/item/32824713057.html" target="_blank">AliExpress</a>
 </p>
 <img src="Images/Converter.jpg" alt="DC Converter" width="250">
-
 <h2 style="font-family:Verdana; color:blue;">6- Ultrasonic Sensors</h2>
 <p style="font-family:Verdana;">
 3 × HC-SR04<br>
@@ -116,25 +87,20 @@ Range: 2cm to 400cm<br>
 Cost: $1 each piece <a href="https://a.aliexpress.com/_c3gyMqNp" target="_blank">AliExpress</a>
 </p>
 <img src="Images/Ultrasonic.jpg" alt="Ultrasonic Sensor" width="250">
-
 <h2 style="font-family:Verdana; color:blue;">7- Motor Driver</h2>
 <p style="font-family:Verdana;">
 L298N motor driver<br>
 Sufficient for our motors<br>
 Cost: $1.50 <a href="https://a.aliexpress.com/_c4BxRCor" target="_blank">AliExpress</a>
 </p>
-
 <img src="Images/MotorDriver.jpg" alt="Motor Driver" width="250">
-
 <h2 style="font-family:Verdana; color:blue;">8- Gyroscope</h2>
 <p style="font-family:Verdana;">
 MPU-6050 gyroscope and accelerometer<br>
 Small, efficient, available<br>
 Cost: $1.60 <a href="https://a.aliexpress.com/_c4rTkJNN" target="_blank">AliExpress</a>
 </p>
-
 <img src="Images/Gyroscope.jpg" alt="Gyroscope" width="250">
-
 <h2 style="font-family:Verdana; color:blue;">9- Camera</h2>
 <p style="font-family:Verdana;">
     Ultra-wide USB camera<br>
@@ -143,7 +109,6 @@ Cost: $1.60 <a href="https://a.aliexpress.com/_c4rTkJNN" target="_blank">AliExpr
     <a href="https://ar.aliexpress.com/item/1005010322998753.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.4.7b3ceWYxeWYxlo&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=3e3b0bb1-dfc1-467d-a377-43f95fcc9c79&_t=gps-id%3ApcDetailBottomMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3A3e3b0bb1-dfc1-467d-a377-43f95fcc9c79&pdp_ext_f=%7B%22order%22%3A%22203%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21USD%211.07%210.54%21%21%217.19%213.59%21%402141147417847393053923158e1b8b%2112000051952266061%21rec%21PS%21%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa7b94305%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005010322998753%7C_p_origin_prod%3A" target="_blank">AliExpress</a>
 </p>
 <img src="Images/Camera.jpg" alt="Camera" width="250">
-
 <h2 style="font-family:Verdana; color:blue;">10- Jumper Wires</h2>
 <p style="font-family:Verdana;">
 Male to male, male to female, female to female<br>
@@ -151,43 +116,28 @@ Strong, reusable, Raspberry Pi compatible<br>
 Cost: $8.42 for 40 pcs  <a href="[https://ar.aliexpress.com/item/1005010322998753.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.4.7b3ceWYxeWYxlo&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=3e3b0bb1-dfc1-467d-a377-43f95fcc9c79&_t=gps-id%3ApcDetailBottomMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3A3e3b0bb1-dfc1-467d-a377-43f95fcc9c79%2Ctpp_buckets%3A668%232846%238107%231934&pdp_ext_f=%7B%22order%22%3A%22203%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21USD%211.07%210.54%21%21%217.19%213.59%21%402141147417847393053923158e1b8b%2112000051952266061%21rec%21PS%21%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa7b94305%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005010322998753%7C_p_origin_prod%3A](https://ar.aliexpress.com/item/1005006310117710.html?spm=a2g0o.productlist.main.6.2873FeiGFeiGQo&algo_pvid=6e5bf61f-f223-4bb8-9a9f-78cd9e7f9999&algo_exp_id=6e5bf61f-f223-4bb8-9a9f-78cd9e7f9999-5&pdp_ext_f=%7B%22order%22%3A%2248%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2115.59%218.42%21%21%21105.00%2156.70%21%40212a6dc917847403641025824e1d16%2112000036710580625%21sea%21PS%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa7b94305%3Bm03_new_user%3A-29895&curPageLogUid=fB3HsKUFge0w&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006310117710%7C_p_origin_prod%3A)" target="_blank">AliExpress</a>
 </p>
 <img src="Images/JumperWires.jpg" alt="Jumper Wires" width="250">
-
 <h2 style="font-family:Verdana; color:blue;">11- On/Off Button</h2>
 <p style="font-family:Verdana;">
 Regular on/off switch<br>
 Inexpensive and easy to install<br>
 Cost: $0.67 for two pcs <a href="https://ar.aliexpress.com/item/1005009187497448.html?spm=a2g0o.productlist.main.4.6659VBZPVBZPji&algo_pvid=cde2e5a6-6cc3-4bcb-95f0-911d00f2b081&aem_p4p_detail=2026072209473612241155076612200000032710&algo_exp_id=cde2e5a6-6cc3-4bcb-95f0-911d00f2b081-3&pdp_ext_f=%7B%22order%22%3A%22347%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.50%213.15%21%21%214.50%213.15%21%4021413b0b17847388566187049e1053%2112000048235993795%21sea%21PS%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa7b94305%3Bm03_new_user%3A-29895&curPageLogUid=ml6vri059rQj&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009187497448%7C_p_origin_prod%3A&search_p4p_id=2026072209473612241155076612200000032710_1" target="_blank">AliExpress</a>
 </p>
-
 <img src="Images/OnOffButton.jpg" alt="On/Off Button" width="250">
 ---
-
-## Software
-
+Software
 We programmed the robot using Python 3 on Linux (Raspberry Pi OS). Python was chosen for its large library support and flexibility. Libraries such as OpenCV were used for image processing, while GPIO libraries allowed us to control motors and sensors.
-
 ---
-
-## Experience and Acquired Expertise
-
+Experience and Acquired Expertise
 This project gave us valuable skills:
-
-- Teamwork and decision-making
-- Problem-solving in programming and hardware
-- Overcoming obstacles in robotics for the first time
-
+Teamwork and decision-making
+Problem-solving in programming and hardware
+Overcoming obstacles in robotics for the first time
 We also gained technical expertise:
-
-- Computer vision and sensor integration
-- Open-source robotics design
-- Balancing power, weight, and stability in engineering design
-
+Computer vision and sensor integration
+Open-source robotics design
+Balancing power, weight, and stability in engineering design
 ---
-
-## Conclusion and Future Vision
-
+Conclusion and Future Vision
 This project was not just about building a robot — it was about proving what motivated students can achieve with creativity, persistence, and teamwork.
-
 Our next steps will focus on turning our passion for robotics into solutions that can help people in everyday life. From intelligent navigation systems to practical automation, we aim to expand the boundaries of what we can design and build.
-
-**Future Forge TEAM – Building today, imagining tomorrow**
+Future Forge TEAM – Building today, imagining tomorrow
