@@ -33,6 +33,3 @@ An autonomous navigation system for a Raspberry Pi robot that uses an **MPU6050 
 | **Right Ultrasonic** | Distance Sensing | Trigger: GPIO 27 / Echo: GPIO 22 |
 | **MPU6050 Gyro** | Heading Tracking | I2C Bus 1 (Address 0x68) |
 
----
-
-## 🚀 Execution Sequence
