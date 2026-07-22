@@ -76,7 +76,7 @@ High voltage & capacity, adjustable output
 <p style="font-family:Verdana;">
 XL4015 (32V → 1.25V adjustable)<br>
 Easy to install<br>
-Cost: $0.59 for 1pcs <a href="[https://www.aliexpress.com/item/32824713057.html](https://ar.aliexpress.com/item/1005007993082705.html?spm=a2g0o.productlist.main.6.392bjz58jz58tC&algo_pvid=29329bb0-8f20-4438-a348-4aebff5423bb&algo_exp_id=29329bb0-8f20-4438-a348-4aebff5423bb-5&pdp_ext_f=%7B%22order%22%3A%22905%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%210.80%210.59%21%21%210.80%210.59%21%402141147417847413344477799e1c51%2112000043188785128%21sea%21PS%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa7b94305%3Bm03_new_user%3A-29895&curPageLogUid=WHaQ7XyJFLTo&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007993082705%7C_p_origin_prod%3A)" target="_blank">AliExpress</a>
+Cost: $0.59 for 1pcs <a href="https://ar.aliexpress.com/item/1005007993082705.html?spm=a2g0o.productlist.main.6.392bjz58jz58tC&algo_pvid=29329bb0-8f20-4438-a348-4aebff5423bb&algo_exp_id=29329bb0-8f20-4438-a348-4aebff5423bb-5&pdp_ext_f=%7B%22order%22%3A%22905%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%210.80%210.59%21%21%210.80%210.59%21%402141147417847413344477799e1c51%2112000043188785128%21sea%21PS%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa7b94305%3Bm03_new_user%3A-29895&curPageLogUid=WHaQ7XyJFLTo&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007993082705%7C_p_origin_prod%3A" target="_blank">AliExpress</a>
 </p>
 <img src="Images/Converter.jpg" alt="DC Converter" width="250">
 <h2 style="font-family:Verdana; color:blue;">6- Ultrasonic Sensors</h2>
