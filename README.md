@@ -1,4 +1,4 @@
-# Future Forge Team – WRO Future Engineers 2026
+# Future Frog Team – WRO Future Engineers 2026
 
 ![Banner](Images/banner.jpg)
 
