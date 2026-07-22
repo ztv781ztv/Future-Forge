@@ -63,7 +63,8 @@ Cost: $95 <a href="https://a.aliexpress.com/_c3kFLPlv" target="_blank">AliExpres
 <p style="font-family:Verdana;">
 Raspberry Pi 4 8GB RAM<br>
 Fast CPU, Python support, and available locally<br>
-Cost: $92 <a href="https://www.aliexpress.com/item/1005001866255360.html" target="_blank">AliExpress</a>
+Cost: $92 for 1pcs <a href="https://ar.aliexpress.com/item/1005012191207911.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.2.418331ps31psFq&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=59b22c2f-3eac-463d-aa44-a9f8a4eb72b5&_t=gps-id%3ApcDetailTopMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3A59b22c2f-3eac-463d-aa44-a9f8a4eb72b5%2Ctpp_buckets%3A668%232846%238108%231977&pdp_ext_f=%7B%22order%22%3A%223%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21USD%21119.69%21119.69%21%21%21806.00%21806.00%21%4021016b6017847426850993529e1e04%2112000057721429210%21rec%21PS%21%21ABXZ%211%210%21n_tag%3A-29910%3Bd%3Aa7b94305%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005012191207911%7C_p_origin_prod%3A" target="_blank">AliExpress</a>
+<img src="Images/RaspberryPi.jpg" alt="Battery" width="250">
 </p>
 <h2 style="font-family:Verdana; color:blue;">4- Battery</h2>
 <p style="font-family:Verdana;">
