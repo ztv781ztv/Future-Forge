@@ -65,12 +65,14 @@ Raspberry Pi 4 8GB RAM<br>
 Fast CPU, Python support, and available locally<br>
 Cost: $92 <a href="https://www.aliexpress.com/item/1005001866255360.html" target="_blank">AliExpress</a>
 </p>
-<img src="Images/RaspberryPi.jpg" alt="Raspberry Pi" width="250">
 <h2 style="font-family:Verdana; color:blue;">4- Battery</h2>
 <p style="font-family:Verdana;">
-12.6V, 6A lithium battery<br>
-High voltage & capacity, adjustable output
+    12.6V, 6A lithium battery<br>
+    High voltage & capacity, adjustable output<br>
+    Cost: [ضع السعر هنا] for [عدد القطع] - 
+    <a href="https://ar.aliexpress.com/item/1005009355610829.html?invitationCode=RUkva01yN3FrcHorcEtMRk5pZm9YS20zcVMyeFBybGRsclFQNndUbXRSND0&srcSns=sns_Copy&spreadType=socialShare&social_params=6000468078908&bizType=ProductDetail&spreadCode=RUkva01yN3FrcHorcEtMRk5pZm9YS20zcVMyeFBybGRsclFQNndUbXRSND0&aff_fcid=bf1012543d994825af7cc2b2e55e3460-1784742163089-01161-_c2yQB6m7&tt=MG&aff_fsk=_c2yQB6m7&aff_platform=default&sk=_c2yQB6m7&aff_trace_key=bf1012543d994825af7cc2b2e55e3460-1784742163089-01161-_c2yQB6m7&shareId=6000468078908&businessType=ProductDetail&platform=AE&terminal_id=440e1d6f404e4fbb83abc7e7edd8131f&afSmartRedirect=y" target="_blank">AliExpress</a>
 </p>
+<img src="Images/Battery.jpg" alt="Battery" width="250">
 <img src="Images/Battery.jpg" alt="Battery" width="250">
 <h2 style="font-family:Verdana; color:blue;">5- DC Power Converter</h2>
 <p style="font-family:Verdana;">
