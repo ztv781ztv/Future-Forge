@@ -91,7 +91,7 @@ Cost: $1 each piece <a href="https://a.aliexpress.com/_c3gyMqNp" target="_blank"
 <p style="font-family:Verdana;">
 L298N motor driver<br>
 Sufficient for our motors<br>
-Cost: $1.50 <a href="https://a.aliexpress.com/_c4BxRCor" target="_blank">AliExpress</a>
+Cost: $$1.23 <a href="[https://a.aliexpress.com/_c4BxRCor](https://ar.aliexpress.com/item/1005009009975262.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.746a2zgH2zgHYH&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=589a13cd-90f9-438d-8c22-7eeb194658c1&_t=gps-id%3ApcDetailTopMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3A589a13cd-90f9-438d-8c22-7eeb194658c1%2Ctpp_buckets%3A668%232846%238109%231935&pdp_ext_f=%7B%22order%22%3A%22101%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21USD%212.73%211.23%21%21%2118.40%218.28%21%400be71e1e17847410011543797e1864%2112000047569477477%21rec%21PS%21%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa7b94305%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005009009975262%7C_p_origin_prod%3A)" target="_blank">AliExpress</a>
 </p>
 <img src="Images/MotorDriver.jpg" alt="Motor Driver" width="250">
 <h2 style="font-family:Verdana; color:blue;">8- Gyroscope</h2>
