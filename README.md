@@ -137,9 +137,10 @@ Cost: $1.60 <a href="https://a.aliexpress.com/_c4rTkJNN" target="_blank">AliExpr
 
 <h2 style="font-family:Verdana; color:blue;">9- Camera</h2>
 <p style="font-family:Verdana;">
-Ultra-wide USB camera<br>
-Better than Pi camera & easier to program
-  Cost: $8.42 for 1 pcs  <a href="https://ar.aliexpress.com/item/1005010322998753.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.4.7b3ceWYxeWYxlo&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=3e3b0bb1-dfc1-467d-a377-43f95fcc9c79&_t=gps-id%3ApcDetailBottomMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3A3e3b0bb1-dfc1-467d-a377-43f95fcc9c79%2Ctpp_buckets%3A668%232846%238107%231934&pdp_ext_f=%7B%22order%22%3A%22203%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21USD%211.07%210.54%21%21%217.19%213.59%21%402141147417847393053923158e1b8b%2112000051952266061%21rec%21PS%21%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa7b94305%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005010322998753%7C_p_origin_prod%3A" target="_blank">AliExpress</a>
+    Ultra-wide USB camera<br>
+    Better than Pi camera & easier to program<br>
+    Cost: $8.42 for 1 pcs - 
+    <a href="https://ar.aliexpress.com/item/1005010322998753.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.4.7b3ceWYxeWYxlo&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=3e3b0bb1-dfc1-467d-a377-43f95fcc9c79&_t=gps-id%3ApcDetailBottomMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3A3e3b0bb1-dfc1-467d-a377-43f95fcc9c79&pdp_ext_f=%7B%22order%22%3A%22203%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21USD%211.07%210.54%21%21%217.19%213.59%21%402141147417847393053923158e1b8b%2112000051952266061%21rec%21PS%21%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa7b94305%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005010322998753%7C_p_origin_prod%3A" target="_blank">AliExpress</a>
 </p>
 <img src="Images/Camera.jpg" alt="Camera" width="250">
 
