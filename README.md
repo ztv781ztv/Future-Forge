@@ -1,4 +1,4 @@
-# Nova Team – WRO Future Engineers 2026
+# Future Forge Team – WRO Future Engineers 2026
 
 ![Banner](Images/banner.jpg)
 
@@ -188,4 +188,4 @@ This project was not just about building a robot — it was about proving what m
 
 Our next steps will focus on turning our passion for robotics into solutions that can help people in everyday life. From intelligent navigation systems to practical automation, we aim to expand the boundaries of what we can design and build.
 
-**Nova Team – Building today, imagining tomorrow**
+**Future Forge TEAM – Building today, imagining tomorrow**
